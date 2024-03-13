@@ -1,0 +1,31 @@
+Criterios de revision
+
+criterior revision web:
+
+- que no haya estilos en el html, utilizacion de css
+- comprobacion de no conflicto de estilos
+- responsive
+- revision del codigo y funcionamiento en general
+
+
+criterios revision api:
+
+- todo en español (revisar que las ñ esten sustituidas por n)
+- variables en singular y minuscula
+- comprobacion del correcto funcionamiento en los DTO de constructor, getters y setters
+- comentarios en javadoc
+- correcto uso de control de excepciones
+- cerrar todo lo que se habre
+- programacion segura
+- utilizacion JPA
+- comprobacion del hash "sha-256" en las contraseñas al mandarlas a la api
+- comprobacion del funcionamiento
+- comprobacion del codigo en general
+
+criterios revision movil:
+
+- mas o menos como en api
+- comprobacion de la utilizacion de los widget (en caso de haber alguna duda preguntar al responsable el porque se ha utilizado uno y no otro)
+- comprobacion de dispose
+- que la consola no suelte mensajes basura
+- comprobacion de la limpieza del codigo
