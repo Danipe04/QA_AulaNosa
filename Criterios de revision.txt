@@ -2,6 +2,13 @@ Criterios de revision
 
 criterior revision web:
 
+- utilizar camelCase para variables y funciones
+- utilizar PascalCase para componentes
+- serparacion de componentes REACT en ficheros (?)
+- uso de const para los que no cambian, y let para las que pueden cambiar
+- utilizar tabulaciones
+- comentarios
+
 - que no haya estilos en el html, utilizacion de css
 - comprobacion de no conflicto de estilos
 - responsive
