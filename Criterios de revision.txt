@@ -27,5 +27,7 @@ criterios revision movil:
 - mas o menos como en api
 - comprobacion de la utilizacion de los widget (en caso de haber alguna duda preguntar al responsable el porque se ha utilizado uno y no otro)
 - comprobacion de dispose
+- utilizacion de rsa_encript
+- comprobar la decodificacion en utf-8 a la hora de recoger el json de la api
 - que la consola no suelte mensajes basura
 - comprobacion de la limpieza del codigo
