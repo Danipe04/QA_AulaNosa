@@ -1,0 +1,7 @@
+Instalar NodeJS
+
+En cmd ejecutar (npm install -g create-react-app)
+
+Para ejecutar (npm install) para obtener las dependencias
+	
+Ejecutar (npm start)
