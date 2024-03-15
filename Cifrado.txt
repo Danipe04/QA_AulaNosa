@@ -1,3 +1,3 @@
-RSA
-	- JavasCript (node-rsa)
-	- Flutter (rsa_encrypt)
+AES
+	- JavasCript (cryptoJS)
+	- Flutter (encrypt)
